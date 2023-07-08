@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Task Zenith
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+Task Zenith is a simple task management application built with React. It allows users to create and manage tasks efficiently.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- Add tasks with titles, descriptions, and deadlines.
+- Mark tasks as completed or incomplete.
+- Delete tasks when no longer needed.
+- Expand task details to view the full description and deadline.
+- Responsive design for a seamless experience on different devices.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Upcoming Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Task Zenith is an ongoing practice project, and the following features are planned for future development:
 
-### `npm test`
+### 1. Task Categories
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Categorize tasks into different labels for better organization.
 
-### `npm run build`
+### 2. Task Filtering and Sorting
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Filter and sort tasks based on parameters such as status, due date, or category.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 3. Task Reminders and Notifications
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Receive reminders for upcoming task deadlines or important events.
 
-### `npm run eject`
+### 4. Task Sharing and Collaboration
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Share tasks with others and collaborate on shared projects.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 5. User Authentication and Persistence
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Enable user authentication and data persistence for personalized experiences.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 6. Task Prioritization and Progress Tracking
 
-## Learn More
+Set task priorities and track progress for effective task management.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Please note that this project is for practice purposes and may not include all the planned features. Feel free to contribute, suggest improvements, or use it as a learning resource.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Getting Started
 
-### Code Splitting
+To get started with Task Zenith, follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+1. Clone the repository: `git clone [repository URL]`
+2. Install dependencies: `npm install`
+3. Run the application: `npm start`
+4. Open the application in your browser at `http://localhost:3000`
 
-### Analyzing the Bundle Size
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is licensed under the [MIT License](LICENSE).
 
-### Making a Progressive Web App
+## Acknowledgements
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [React](https://reactjs.org) - JavaScript library for building user interfaces
+- [React Icons](https://react-icons.github.io/react-icons/) - Icons for React applications
