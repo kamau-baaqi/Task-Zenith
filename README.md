@@ -1,3 +1,6 @@
+
+<img width="1440" alt="Screen Shot 2023-07-07 at 6 18 15 PM" src="https://github.com/kamau-baaqi/Task-Zenith/assets/76187377/4182ff1d-addc-49a5-a40d-cffc5497c8ba">
+
 # Task Zenith
 
 ## Description
@@ -11,6 +14,8 @@ Task Zenith is a simple task management application built with React. It allows 
 - Delete tasks when no longer needed.
 - Expand task details to view the full description and deadline.
 - Responsive design for a seamless experience on different devices.
+
+https://github.com/kamau-baaqi/Task-Zenith/assets/76187377/cfff6acc-bb02-47b3-9cbe-55061274a19a
 
 ## Upcoming Features
 
